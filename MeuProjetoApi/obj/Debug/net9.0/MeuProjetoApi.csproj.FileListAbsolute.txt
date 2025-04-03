@@ -1,0 +1,97 @@
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\appsettings.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.staticwebassets.endpoints.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.exe
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.deps.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.runtimeconfig.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.pdb
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Npgsql.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.AssemblyInfo.cs
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\scopedcss\bundle\MeuProjetoApi.styles.css
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.MeuProjetoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.MeuProjetoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.MeuProjetoApi.props
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MeuProjetoApi.props
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MeuProjetoApi.props
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProje.0BDF6B6A.Up2Date
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\refint\MeuProjetoApi.dll
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.pdb
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.genruntimeconfig.cache
+C:\Users\rafae\Desktop\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\ref\MeuProjetoApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\appsettings.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.staticwebassets.endpoints.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\MeuProjetoApi.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Npgsql.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\scopedcss\bundle\MeuProjetoApi.styles.css
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.MeuProjetoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.MeuProjetoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.MeuProjetoApi.props
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MeuProjetoApi.props
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MeuProjetoApi.props
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProje.0BDF6B6A.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\refint\MeuProjetoApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\MeuProjetoApi.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\obj\Debug\net9.0\ref\MeuProjetoApi.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\TrabalhoAPI\MeuProjetoApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
